@@ -1,4 +1,4 @@
-- **Project**: A Custom CNN Model to Classify Lung and Colon Cancer into 5 classes: Lung Benign, Lund Adenocarcinoma, Lung Squamous Cell Carcinoma, Colon Adenocarcinoma, Colon Benign.
+- **Project**: A Custom CNN Model to Classify Lung and Colon Cancer into 5 classes: Lung Benign, Lung Adenocarcinoma, Lung Squamous Cell Carcinoma, Colon Adenocarcinoma, Colon Benign.
 - **Dataset**: [Lung and Colon Cancer Histopathology Image Dataset (25000 Images)](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images)
 - **Model Performance**: Achieved accuracy of 99.76% on validation data. 
 - **Deployment**: Model deployed on Hugging Face: [LC Classification](https://huggingface.co/spaces/psinha823/Major_project)
